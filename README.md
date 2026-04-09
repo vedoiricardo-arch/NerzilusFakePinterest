@@ -88,9 +88,7 @@ python criar_banco.py
 ### 5. Rode a aplicação
 ```bash
 python main.py
-```
-
-Acesse em: [http://localhost:5000](http://localhost:5000)
+``
 
 ---
 
